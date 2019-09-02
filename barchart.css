@@ -1,0 +1,13 @@
+#container {
+    width: 1200px;
+    height: 200px;
+    transform: rotateZ(180deg);
+}
+
+.bar {
+    width: 20px;
+    height: 100px;
+    border: solid 1px white;
+    float: right;
+    background: #54b0de;
+}
